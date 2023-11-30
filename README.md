@@ -21,11 +21,11 @@ Hi, I’m Champion Uzoma @championuz
 💞️ I’m looking to collaborate on React and React Native projects
 📫 How to reach me on twitter @champuzoma
 ### :fire: My Stats:
-<div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=championuz&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=championuz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div>
+
+  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
