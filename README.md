@@ -15,12 +15,14 @@
 </h1>
 
 
-- 👋 Hi, I’m Champion Uzoma @championuz
-- 👀 I’m interested in Web app projects and Mobile App projects.
-- 🌱 I’m currently building to expertise in React Native and Reactjs
-- 💞️ I’m looking to collaborate on React and React Native projects
-- 📫 How to reach me on twitter @champuzoma
+Hi, I’m Champion Uzoma @championuz
+👀 I’m interested in Web app projects and Mobile App projects.
+🌱 I’m currently building to expertise in React Native and Reactjs
+💞️ I’m looking to collaborate on React and React Native projects
+📫 How to reach me on twitter @champuzoma
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=championuz&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=championuz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
