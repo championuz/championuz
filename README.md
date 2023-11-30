@@ -20,6 +20,7 @@
 <p>🌱 I’m currently building to expertise in React Native and Reactjs</p>
 <p>💞️ I’m looking to collaborate on React and React Native projects</p>
 📫 How to reach me on twitter @champuzoma
+
 ### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=championuz&theme=dark&background=000000)](https://git.io/streak-stats)
