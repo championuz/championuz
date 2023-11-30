@@ -15,10 +15,10 @@
 </h1>
 
 
-Hi, I’m Champion Uzoma @championuz
-👀 I’m interested in Web app projects and Mobile App projects.
-🌱 I’m currently building to expertise in React Native and Reactjs
-💞️ I’m looking to collaborate on React and React Native projects
+<p>Hi, I’m Champion Uzoma @championuz</p>
+<p>👀 I’m interested in Web app projects and Mobile App projects.</p>
+<p>🌱 I’m currently building to expertise in React Native and Reactjs</p>
+<p>💞️ I’m looking to collaborate on React and React Native projects</p>
 📫 How to reach me on twitter @champuzoma
 ### :fire: My Stats:
 
